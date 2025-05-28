@@ -1,0 +1,2 @@
+-- SQL課題⑥：ページネーション（LIMITとOFFSET）
+SELECT * FROM books ORDER BY id LIMIT 5 OFFSET 5;
